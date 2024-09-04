@@ -1,3 +1,4 @@
+package Exercicio;
 import java.util.Scanner;
 
 public class Contador {
